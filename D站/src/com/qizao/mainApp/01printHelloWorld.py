@@ -1,0 +1,1 @@
+print("Welcome to DiliDili!")#一行输出
